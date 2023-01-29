@@ -1,4 +1,4 @@
-## Hola soy Ivan Lara, Programador y CIO de APIK-Desing!
+## Hola soy Ivan Lara, Programador y CEO de APIK-Desing!
 <div align="center">
   <a href="https://github.com/GamerPc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GamerPc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
