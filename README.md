@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hola, soy Ivan Lara</h1>
 <h3 align="center">🚀 Programador | Cybersecurity | CEO de APIK Design | Game Dev & Software Engineer</h3>
-
+<p align="center">
+  <img src="https://chatgpt.com/s/m_69e9b27b2ab88191bd81687f66d26f16"/>
+</p>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCTRiUIiBQhDccDN64isqtCw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/ivan_lara_m/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -63,13 +65,9 @@
 
 ## 🐍 Actividad
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GamerPc/GamerPc/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GamerPc/GamerPc/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/GamerPc/GamerPc/output/github-snake.svg" />
-  </picture>
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
 
 ---
 
