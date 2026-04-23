@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Ivan Lara</h1>
 <h3 align="center">🚀 Programador | Cybersecurity | CEO de APIK Design | Game Dev & Software Engineer</h3>
 <p align="center">
-  <img src="https://chatgpt.com/s/m_69e9b27b2ab88191bd81687f66d26f16"/>
+  <img src="https://drive.google.com/file/d/1f6Z9qkcF42h6SbJ8R7mkSrwCO0yXNGFf/view?usp=sharing"/>
 </p>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCTRiUIiBQhDccDN64isqtCw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
