@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Ivan Lara</h1>
-<h3 align="center">🚀 Programador | CEO de APIK Design | Game Dev & Software Engineer</h3>
+<h3 align="center">🚀 Programador | Cybersecurity | CEO de APIK Design | Game Dev & Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCTRiUIiBQhDccDN64isqtCw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -24,12 +24,16 @@
 - 🛠️ Sistemas complejos (contabilidad, IA, herramientas dev)
 - 🤖 Integración de IA en desarrollo 3D y videojuegos  
 
+🚀 Construyo soluciones que combinan:
+- Seguridad 🔐
+- Escalabilidad ⚙️
+- Creatividad 🎮  
 ---
 
 ## ⚒️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,cpp,java,nodejs,git,github,linux,unreal,blender&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,cpp,java,nodejs,git,github,linux,unreal,blender,docker,postgres&perline=8" />
 </p>
 
 ---
